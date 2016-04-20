@@ -1,8 +1,10 @@
 ---
 title: Lesson 27.11.15
 layout: post
-author: jamie.robinson
+author: DCGSjor
 permalink: /untitled-document/
+tags:
+- 
 source-id: 1aT7MgTLYam0R7bVc-FyMRppkhezdSskvl5SiTtsRqxU
 published: true
 ---
@@ -15,6 +17,4 @@ Now onto the stuff i found difficult, i was flying ahead up until the annoying p
 Well now you kind of know that it is not as easy building a website that you would think
 
 Look out for the next post next week
-
-Jamjingo
 
