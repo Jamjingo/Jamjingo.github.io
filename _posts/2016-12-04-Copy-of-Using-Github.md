@@ -1,17 +1,17 @@
 ---
-title: Copy of Using Github
+title: 14.11.16
 layout: post
 author: jamie.robinson
 permalink: /copy-of-using-github/
-source-id: 15jMrNoNxIu12TVZZ6e4VZU7c6Z1KJX9oxafj4O7ddTs
+source-id: 1gk1AfE6KFleipV7rtcgpPVfVZLf_NY_HDVK_7bwjehI
 published: true
 ---
 <table>
   <tr>
     <td>Title</td>
-    <td>To continue coding</td>
+    <td>Making A Blog</td>
     <td>Date</td>
-    <td>24.10.16</td>
+    <td>14.11.16</td>
   </tr>
 </table>
 
@@ -19,16 +19,16 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>Continuing to develop </td>
+    <td>Understanding code a bit more</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>To have a github pages static site</td>
+    <td>To use code more effectively</td>
   </tr>
   <tr>
     <td>Did I reach my target? 
 (add details to "Lesson Review")</td>
-    <td> Yes mostly and i did quite well o the way</td>
+    <td> Yes</td>
   </tr>
 </table>
 
@@ -41,19 +41,19 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>Some of the good techniques that I used was to experiment with different strings of code. This helped me to understand the code better and to be able to use it more effectively.</td>
+    <td>I learnt that to use and understand code more effectively I had to look at the impact of several lines of code, and tried using them in multiple ways, as this showed me the meaning of the commands.</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>I need to stop trying to improvise when typing out code, as this led to me sometimes getting things wrong when typing them.</td>
+    <td>Nothing really limited my learning, apart from maybe striving to work a bit faster so we can get on to more advanced coding like controlling the robot arm.</td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>I should let my partner give more ideas and to let them type more</td>
+    <td>I will work extra quick and effectively next lesson with my partner to ensure that we get on to more advanced things.</td>
   </tr>
 </table>
 
